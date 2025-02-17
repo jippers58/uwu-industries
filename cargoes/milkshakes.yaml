@@ -1,0 +1,17 @@
+abbreviation: MS
+available: true
+classes: 132
+colour: 186
+id: 5
+label: MILS
+longName: milkshakes
+name: Milkshakes
+penaltyLength: 20
+penaltyLowerBound: 0
+price: 7890
+sprite:
+  filename: cargoes/milkshakes.png
+  left: 0
+  top: 0
+unitName: Loads
+weight: 16

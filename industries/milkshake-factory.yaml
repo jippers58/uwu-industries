@@ -20,7 +20,7 @@ callbacks: |
   }
 
   accept_cargo_types ctt:GENF [] 8 =
-  prod_cargo_types ctt:FOOD [] 4 =
+  prod_cargo_types ctt:MILS [] 4 =
 
   /*
    The following is a replication of what FIRS is doing for a secondary industry.
@@ -96,7 +96,8 @@ callbacks: |
   }
 cargoAcceptance:
 - GENF
-cargoProduction: []
+cargoProduction:
+- MILS
 colour: 191
 fundCostMultiplier: 170
 id: 7
