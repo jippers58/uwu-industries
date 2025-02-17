@@ -19,9 +19,9 @@ callbacks: |
       total_produced_cargo_available integer
   }
 
-  accept_cargo_types ctt:FEMB [] 2 =
-  accept_cargo_types ctt:MOMY [] 2 =
-  prod_cargo_types ctt:PUPG [] 8 =
+  accept_cargo_types cargo:FEMB [] 2 =
+  accept_cargo_types cargo:MOMY [] 2 =
+  prod_cargo_types cargo:PUPG [] 8 =
 
 
   /*

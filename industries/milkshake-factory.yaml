@@ -19,8 +19,8 @@ callbacks: |
       total_produced_cargo_available integer
   }
 
-  accept_cargo_types ctt:GENF [] 8 =
-  prod_cargo_types ctt:MILS [] 4 =
+  accept_cargo_types cargo:GENF [] 8 =
+  prod_cargo_types cargo:MILS [] 4 =
 
   /*
    The following is a replication of what FIRS is doing for a secondary industry.

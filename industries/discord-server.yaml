@@ -19,8 +19,8 @@ callbacks: |
       total_produced_cargo_available integer
   }
 
-  accept_cargo_types ctt:PUPG [] 2 =
-  prod_cargo_types ctt:GENF [] 8 =
+  accept_cargo_types cargo:PUPG [] 2 =
+  prod_cargo_types cargo:GENF [] 8 =
 
 
   /*

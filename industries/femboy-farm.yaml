@@ -42,7 +42,7 @@ callbacks: |
 
   supply_requirement 8 =
 
-  prod_cargo_types ctt:FEMB [] 14 =
+  prod_cargo_types cargo:FEMB [] 14 =
 
 
   /*
