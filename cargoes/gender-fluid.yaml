@@ -1,0 +1,17 @@
+abbreviation: GF
+available: true
+classes: 132
+colour: 186
+id: 4
+label: GENF
+longName: gender fluid
+name: Gender Fluid
+penaltyLength: 20
+penaltyLowerBound: 0
+price: 5678
+sprite:
+  filename: cargoes/gender-fluid.png
+  left: 0
+  top: 0
+unitName: Loads
+weight: 16

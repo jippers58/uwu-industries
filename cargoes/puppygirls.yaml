@@ -1,0 +1,17 @@
+abbreviation: PG
+available: true
+classes: 132
+colour: 186
+id: 3
+label: PUPG
+longName: puppygirls
+name: Puppygirls
+penaltyLength: 20
+penaltyLowerBound: 0
+price: 4567
+sprite:
+  filename: cargoes/puppygirls.png
+  left: 0
+  top: 0
+unitName: Polycules
+weight: 16

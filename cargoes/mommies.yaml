@@ -1,1 +1,17 @@
-mommies
+abbreviation: MY
+available: true
+classes: 132
+colour: 186
+id: 1
+label: MOMY
+longName: mommies
+name: Mommies
+penaltyLength: 20
+penaltyLowerBound: 0
+price: 3536
+sprite:
+  filename: cargoes/mommies.png
+  left: 0
+  top: 0
+unitName: Gyatts
+weight: 16

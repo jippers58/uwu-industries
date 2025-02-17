@@ -1,0 +1,17 @@
+abbreviation: FB
+available: true
+classes: 132
+colour: 186
+id: 2
+label: FEMB
+longName: femboys
+name: Femboys
+penaltyLength: 20
+penaltyLowerBound: 0
+price: 3536
+sprite:
+  filename: cargoes/femboys.png
+  left: 0
+  top: 0
+unitName: Discord Servers
+weight: 16
