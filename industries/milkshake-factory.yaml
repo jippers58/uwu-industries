@@ -96,8 +96,7 @@ callbacks: |
   }
 cargoAcceptance:
 - GENF
-cargoProduction:
-- FOOD
+cargoProduction: []
 colour: 191
 fundCostMultiplier: 170
 id: 7
@@ -195,7 +194,7 @@ layout:
     - 5
 name: Milkshake Factory
 placement: anywhere
-probabilityInGame: 0
+probabilityInGame: 2
 probabilityMapGen: 5
 prospectChance: 0
 tiles:

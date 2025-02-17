@@ -120,7 +120,7 @@ layout:
     - 4
 name: Discord Server
 placement: anywhere
-probabilityInGame: 1
+probabilityInGame: 3
 probabilityMapGen: 8
 prospectChance: 0
 tiles:

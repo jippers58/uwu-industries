@@ -97,8 +97,8 @@ callbacks: |
       result:value 0 =
   }
 cargoAcceptance:
-- MOMY
 - FEMB
+- MOMY
 cargoProduction:
 - PUPG
 colour: 194
@@ -125,7 +125,7 @@ layout:
     - 5
 name: Puppy Mill
 placement: anywhere
-probabilityInGame: 0
+probabilityInGame: 3
 probabilityMapGen: 5
 prospectChance: 0
 tiles:
