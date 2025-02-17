@@ -1,6 +1,1 @@
-# FIRS Steeltown
-
-This is a [TrueGRF](https://truegrf.truebrain.nl/) project.
-TrueGRF makes creating NewGRFs easy.
-
-This project is a port of [FIRS](https://github.com/andythenorth/firs) Steeltown economy, including images, callbacks, etc.
+This place is not a place of honor... no highly esteemed deed is commemorated here... nothing valued is here.
